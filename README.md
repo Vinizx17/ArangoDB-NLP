@@ -10,11 +10,17 @@ O objetivo é permitir consultas do tipo:
 Tecnologias Utilizadas:
 
 Python 3
+
 Pandas – manipulação de dados CSV
+
 ArangoDB – banco de dados multimodelo (grafo, documentos)
+
 python-arango – driver Python para ArangoDB
+
 spaCy – NLP para extração de entidades
+
 Git – download de exemplos do ArangoDB Oasis
+
 Colab – ambiente de execução recomendado
 
 
